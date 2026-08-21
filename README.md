@@ -5,3 +5,4 @@
 - 📫 How to reach me: You can email me at krantz44@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once created a simple game in Python that simulates an escape room challenge!
+[![Boot.dev Learn Power BI certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ed0fc4a9-027c-43c7-a896-e657e6706ff2.jpeg?v=1787317877)](https://www.boot.dev/certificates/ed0fc4a9-027c-43c7-a896-e657e6706ff2)
