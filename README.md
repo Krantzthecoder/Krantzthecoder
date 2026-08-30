@@ -6,3 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once created a simple game in Python that simulates an escape room challenge!
 [![Boot.dev Learn Power BI certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ed0fc4a9-027c-43c7-a896-e657e6706ff2.jpeg?v=1787317877)](https://www.boot.dev/certificates/ed0fc4a9-027c-43c7-a896-e657e6706ff2)
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e9e22004-d295-4ffe-8e0d-030c837d20d4.jpeg?v=1788082758)](https://www.boot.dev/certificates/e9e22004-d295-4ffe-8e0d-030c837d20d4)
